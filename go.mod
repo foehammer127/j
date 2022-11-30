@@ -3,10 +3,11 @@ module github.com/foehammer127-svg/j
 go 1.18
 
 require (
-	github.com/foehammer127-svg/goproj v0.0.0-20221128152433-ea5667a11a1e
-	github.com/rwxrob/bonzai v0.20.2
+	github.com/rwxrob/bonzai v0.20.5
+	github.com/rwxrob/good v0.1.4
+	github.com/rwxrob/grep v0.1.2
 	github.com/rwxrob/help v0.7.0
-	github.com/rwxrob/keg v0.5.3
+	github.com/rwxrob/keg v0.6.0
 )
 
 require (
@@ -15,25 +16,26 @@ require (
 	github.com/dimchansky/utfbom v1.1.1 // indirect
 	github.com/elliotchance/orderedmap v1.5.0 // indirect
 	github.com/fatih/color v1.13.0 // indirect
-	github.com/goccy/go-json v0.9.11 // indirect
+	github.com/goccy/go-json v0.10.0 // indirect
 	github.com/goccy/go-yaml v1.9.6 // indirect
 	github.com/jinzhu/copier v0.3.5 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
-	github.com/mikefarah/yq/v4 v4.30.4 // indirect
+	github.com/mikefarah/yq/v4 v4.30.5 // indirect
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
 	github.com/rwxrob/choose v0.2.1 // indirect
 	github.com/rwxrob/compcmd v0.3.0 // indirect
 	github.com/rwxrob/compfile v0.1.12 // indirect
 	github.com/rwxrob/conf v0.8.2 // indirect
 	github.com/rwxrob/fn v0.3.3 // indirect
-	github.com/rwxrob/fs v0.14.1 // indirect
+	github.com/rwxrob/fs v0.17.2 // indirect
 	github.com/rwxrob/json v0.8.0 // indirect
-	github.com/rwxrob/pegn v0.1.0 // indirect
+	github.com/rwxrob/pegn v0.2.1 // indirect
 	github.com/rwxrob/structs v0.6.0 // indirect
 	github.com/rwxrob/term v0.2.8 // indirect
-	github.com/rwxrob/to v0.11.2 // indirect
+	github.com/rwxrob/to v0.11.3 // indirect
+	github.com/rwxrob/uniq v0.5.0 // indirect
 	github.com/rwxrob/vars v0.5.0 // indirect
 	github.com/rwxrob/yq v0.3.2 // indirect
 	golang.org/x/crypto v0.3.0 // indirect

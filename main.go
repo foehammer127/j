@@ -4,6 +4,8 @@ import (
 	Z "github.com/rwxrob/bonzai/z"
 	"github.com/rwxrob/keg"
 	"github.com/rwxrob/help"
+	"github.com/rwxrob/grep"
+	"github.com/rwxrob/good"
 )
 
 var Cmd = &Z.Cmd {
@@ -18,6 +20,8 @@ var Cmd = &Z.Cmd {
 		
 		// Imported:
 		keg.Cmd,
+		grep.Cmd,
+		good.Cmd,
 	},
 }
 
